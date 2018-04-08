@@ -42,7 +42,7 @@ The secondary diagonal is:
 Sum across the secondary diagonal: 4 + 5 + 10 = 19
 Difference: |4 - 19| = 15
 **/
-public class Solution {
+public class SquereMatrixDiagAbsSum {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
